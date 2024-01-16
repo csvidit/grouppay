@@ -46,6 +46,7 @@
 		2D8AF1042B56618700EC12E8 /* grouppayUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = grouppayUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D8AF1082B56618700EC12E8 /* grouppayUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = grouppayUITests.swift; sourceTree = "<group>"; };
 		2D8AF10A2B56618700EC12E8 /* grouppayUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = grouppayUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2D8AF1172B5662FB00EC12E8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +77,7 @@
 		2D8AF0DF2B56618400EC12E8 = {
 			isa = PBXGroup;
 			children = (
+				2D8AF1172B5662FB00EC12E8 /* README.md */,
 				2D8AF0EA2B56618400EC12E8 /* grouppay */,
 				2D8AF0FD2B56618700EC12E8 /* grouppayTests */,
 				2D8AF1072B56618700EC12E8 /* grouppayUITests */,
